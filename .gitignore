@@ -1,3 +1,5 @@
+!data/raw/.gitkeep
+!data/processed/.gitkeep
 
 .ipynb_checkpoints/
 *.ipynb_checkpoints
@@ -10,6 +12,8 @@ __pycache__/
 
 data/raw/*
 data/processed/*
+
+notebooks/mock.py
 
 .DS_Store
 Thumbs.db
